@@ -230,5 +230,133 @@
     "duration": 380,
     "thumbnail": "https://photos.motogp.com/2025/events/background/08%20Aragon.png",
     "watch_url": "/"
+  },
+  {
+    "title": "Grand Prix of Italy 2025",
+    "league": "MotoGP",
+    "start_time": "2025-06-20T15:45:00",
+    "duration": 380,
+    "thumbnail": "https://photos.motogp.com/2025/events/background/09%20Italia.png",
+    "watch_url": "/"
+  },
+  {
+    "title": "Grand Prix of Italy 2025",
+    "league": "MotoGP",
+    "start_time": "2025-06-20T15:45:00",
+    "duration": 380,
+    "thumbnail": "https://photos.motogp.com/2025/events/background/09%20Italia.png",
+    "watch_url": "/"
+  },
+  {
+    "title": "Grand Prix of Netherlands 2025",
+    "league": "MotoGP",
+    "start_time": "2025-06-27T15:45:00",
+    "duration": 380,
+    "thumbnail": "https://photos.motogp.com/2025/events/background/10%20Assen.png",
+    "watch_url": "/"
+  },
+  {
+    "title": "Grand Prix of Germany 2025",
+    "league": "MotoGP",
+    "start_time": "2025-07-11T15:45:00",
+    "duration": 380,
+    "thumbnail": "https://photos.motogp.com/2025/events/background/11%20Sachsenring.png",
+    "watch_url": "/"
+  },
+  {
+    "title": "Grand Prix of Czeck Republiky 2025",
+    "league": "MotoGP",
+    "start_time": "2025-07-18T15:45:00",
+    "duration": 380,
+    "thumbnail": "https://photos.motogp.com/2025/events/background/12%20CZE.png",
+    "watch_url": "/"
+  },
+  {
+    "title": "Grand Prix of Czeck Republiky 2025",
+    "league": "MotoGP",
+    "start_time": "2025-07-18T15:45:00",
+    "duration": 380,
+    "thumbnail": "https://photos.motogp.com/2025/events/background/12%20CZE.png",
+    "watch_url": "/"
+  },
+  {
+    "title": "Grand Prix of Austria 2025",
+    "league": "MotoGP",
+    "start_time": "2025-08-18T15:45:00",
+    "duration": 380,
+    "thumbnail": "https://photos.motogp.com/2025/events/background/13%20Austria.png",
+    "watch_url": "/"
+  },
+  {
+    "title": "Grand Prix of Hungria 2025",
+    "league": "MotoGP",
+    "start_time": "2025-08-18T15:45:00",
+    "duration": 380,
+    "thumbnail": "https://photos.motogp.com/2025/events/background/14%20Hungary.png",
+    "watch_url": "/"
+  },
+  {
+    "title": "Grand Prix of Catalunya 2025",
+    "league": "MotoGP",
+    "start_time": "2025-09-05T15:45:00",
+    "duration": 380,
+    "thumbnail": "https://photos.motogp.com/2025/events/background/15%20Catalunya.png",
+    "watch_url": "/"
+  },
+  {
+    "title": "Grand Prix of San Marino 2025",
+    "league": "MotoGP",
+    "start_time": "2025-09-12T15:45:00",
+    "duration": 380,
+    "thumbnail": "https://photos.motogp.com/2025/events/background/16%20San%20Marino.png",
+    "watch_url": "/"
+  },
+  {
+    "title": "Grand Prix of Japan 2025",
+    "league": "MotoGP",
+    "start_time": "2025-09-26T08:45:00",
+    "duration": 380,
+    "thumbnail": "https://photos.motogp.com/2025/events/background/17%20Japan.png",
+    "watch_url": "/"
+  },
+  {
+    "title": "Grand Prix of Indonesia 2025",
+    "league": "MotoGP",
+    "start_time": "2025-10-03T09:45:00",
+    "duration": 380,
+    "thumbnail": "https://photos.motogp.com/2025/events/background/18%20Indonesia.png",
+    "watch_url": "/"
+  },
+  {
+    "title": "Grand Prix of Australia 2025",
+    "league": "MotoGP",
+    "start_time": "2025-10-17T06:45:00",
+    "duration": 380,
+    "thumbnail": "https://photos.motogp.com/2025/events/background/19%20australia.png",
+    "watch_url": "/"
+  },
+  {
+    "title": "Grand Prix of Malaysia 2025",
+    "league": "MotoGP",
+    "start_time": "2025-10-24T09:45:00",
+    "duration": 380,
+    "thumbnail": "https://photos.motogp.com/2025/events/background/20malasya.png",
+    "watch_url": "/"
+  },
+  {
+    "title": "Grand Prix of Portugal 2025",
+    "league": "MotoGP",
+    "start_time": "2025-11-07T17:45:00",
+    "duration": 380,
+    "thumbnail": "https://photos.motogp.com/2025/events/background/21%20Portugal.png",
+    "watch_url": "/"
+  },
+  {
+    "title": "Grand Prix of Valencia 2025",
+    "league": "MotoGP",
+    "start_time": "2025-11-14T16:45:00",
+    "duration": 380,
+    "thumbnail": "https://photos.motogp.com/2025/events/background/22%20valencia.png",
+    "watch_url": "/"
   }
 ]
