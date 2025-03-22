@@ -28,7 +28,7 @@
     "league": "Formula 1",
     "start_time": "2025-04-18T20:30:00",
     "duration": 380,
-    "thumbnail": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/f_auto/q_auto/content/dam/fom-website/2018-redesign-assets/Racehub%20header%20images%2016x9/Bahrain",
+    "thumbnail": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/f_auto/q_auto/content/dam/fom-website/2018-redesign-assets/Racehub%20header%20images%2016x9/Saudi%20Arabia",
     "watch_url": "/"
   },
   {
@@ -60,7 +60,7 @@
     "league": "Formula 1",
     "start_time": "2025-05-30T18:30:00",
     "duration": 380,
-    "thumbnail": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/f_auto/q_auto/content/dam/fom-website/2018-redesign-assets/Racehub%20header%20images%2016x9/Monaco",
+    "thumbnail": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/f_auto/q_auto/content/dam/fom-website/2018-redesign-assets/Racehub%20header%20images%2016x9/Spain",
     "watch_url": "/"
   },
   {
@@ -156,7 +156,7 @@
     "league": "Formula 1",
     "start_time": "2025-11-07T21:30:00",
     "duration": 380,
-    "thumbnail": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/f_auto/q_auto/content/dam/fom-website/2018-redesign-assets/Racehub%20header%20images%2016x9/Mexico",
+    "thumbnail": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/f_auto/q_auto/content/dam/fom-website/2018-redesign-assets/Racehub%20header%20images%2016x9/Brazil",
     "watch_url": "/"
   },
   {
@@ -181,6 +181,54 @@
     "start_time": "2025-12-05T16:30:00",
     "duration": 380,
     "thumbnail": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/f_auto/q_auto/content/dam/fom-website/2018-redesign-assets/Racehub%20header%20images%2016x9/Abu%20Dhabi",
+    "watch_url": "/"
+  },
+  {
+    "title": "Grand Prix Americas 2025",
+    "league": "MotoGP",
+    "start_time": "2025-03-28T22:45:00",
+    "duration": 380,
+    "thumbnail": "https://photos.motogp.com/2025/events/background/03%20Americas.jpg",
+    "watch_url": "/"
+  },
+  {
+    "title": "Grand Prix Qatar 2025",
+    "league": "MotoGP",
+    "start_time": "2025-04-11T19:45:00",
+    "duration": 380,
+    "thumbnail": "https://photos.motogp.com/2025/events/background/04%20Qatar.jpg",
+    "watch_url": "/"
+  },
+  {
+    "title": "Grand Prix Spanyol 2025",
+    "league": "MotoGP",
+    "start_time": "2025-04-25T15:45:00",
+    "duration": 380,
+    "thumbnail": "https://photos.motogp.com/2025/events/background/05Jerezx2.png",
+    "watch_url": "/"
+  },
+  {
+    "title": "Grand Prix of France 2025",
+    "league": "MotoGP",
+    "start_time": "2025-05-09T15:45:00",
+    "duration": 380,
+    "thumbnail": "https://photos.motogp.com/2025/events/background/06%20France.png",
+    "watch_url": "/"
+  },
+  {
+    "title": "Grand Prix of Great Britain 2025",
+    "league": "MotoGP",
+    "start_time": "2025-05-23T17:45:00",
+    "duration": 380,
+    "thumbnail": "https://photos.motogp.com/2025/events/background/07%20GBR.png",
+    "watch_url": "/"
+  },
+  {
+    "title": "Grand Prix of Aragon 2025",
+    "league": "MotoGP",
+    "start_time": "2025-06-06T15:45:00",
+    "duration": 380,
+    "thumbnail": "https://photos.motogp.com/2025/events/background/08%20Aragon.png",
     "watch_url": "/"
   }
 ]
