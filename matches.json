@@ -1,6 +1,6 @@
 [
   {
-    "title": "HEINEKEN CHINESE GRAND PRIX 2025",
+    "title": "Grand Prix Tiongkok 2025",
     "league": "Formula 1",
     "start_time": "2025-03-22T10:00:00",
     "duration": 380,
@@ -8,7 +8,7 @@
     "watch_url": "https://embedmotosports.blogspot.com/?embed=aHR0cHM6Ly9zdHJlYW10cDMuY29tL2dsb2JhbDEucGhwP3N0cmVhbT1mb3hzcG9ydHNteCxodHRwczovL3Zvb2RjLmNvbS9lbWJlZC84NTdhYTY5M2EyODg5Yjg4ODQ3M2ExOTY5ZDkwOTg4Nzg5N2IuaHRtbCxodHRwczovL3Zvb2RjLmNvbS9lbWJlZC84NTdhYTY5M2EyODg5Yjg4ODQ3M2ExOTY5ZTg4OTg4NzhhNzMuaHRtbCxodHRwczovL3N0cmVhbXRwMy5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPXNreWYxLGh0dHBzOi8vc3RyZWFtdHAzLmNvbS9nbG9iYWwxLnBocD9zdHJlYW09ZXNwbmRlcG9ydGVzLGh0dHBzOi8vc3RyZWFtdHAzLmNvbS9nbG9iYWwxLnBocD9zdHJlYW09Zm94c3BvcnRzcHJlbWl1bSxodHRwczovL3N0cmVhbXRwMy5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWZveDFhcixodHRwczovL2RhZGR5bGl2ZTEucnUvbGl2ZS9zdHJlYW0tNjAucGhw"
   },
   {
-    "title": "LENOVO JAPANESE GRAND PRIX 2025",
+    "title": "Grand Prix Jepang 2025",
     "league": "Formula 1",
     "start_time": "2025-04-04T09:30:00",
     "duration": 380,
@@ -16,7 +16,7 @@
     "watch_url": "/"
   },
   {
-    "title": "GULF AIR BAHRAIN GRAND PRIX 2025",
+    "title": "Grand Prix Bahrain 2025",
     "league": "Formula 1",
     "start_time": "2025-04-11T18:30:00",
     "duration": 380,
@@ -24,11 +24,163 @@
     "watch_url": "/"
   },
   {
-    "title": "STC SAUDI ARABIAN GRAND PRIX 2025",
+    "title": "Grand Prix Arab Saudi 2025",
     "league": "Formula 1",
     "start_time": "2025-04-18T20:30:00",
     "duration": 380,
     "thumbnail": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/f_auto/q_auto/content/dam/fom-website/2018-redesign-assets/Racehub%20header%20images%2016x9/Bahrain",
+    "watch_url": "/"
+  },
+  {
+    "title": "Grand Prix Miami 2025",
+    "league": "Formula 1",
+    "start_time": "2025-05-02T23:30:00",
+    "duration": 380,
+    "thumbnail": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/f_auto/q_auto/content/dam/fom-website/2018-redesign-assets/Racehub%20header%20images%2016x9/Miami",
+    "watch_url": "/"
+  },
+  {
+    "title": "Grand Prix Emilia Romagna 2025",
+    "league": "Formula 1",
+    "start_time": "2025-05-16T18:30:00",
+    "duration": 380,
+    "thumbnail": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/f_auto/q_auto/content/dam/fom-website/2018-redesign-assets/Racehub%20header%20images%2016x9/Emilia%20Romagna",
+    "watch_url": "/"
+  },
+  {
+    "title": "Grand Prix Monako 2025",
+    "league": "Formula 1",
+    "start_time": "2025-05-23T18:30:00",
+    "duration": 380,
+    "thumbnail": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/f_auto/q_auto/content/dam/fom-website/2018-redesign-assets/Racehub%20header%20images%2016x9/Monaco",
+    "watch_url": "/"
+  },
+  {
+    "title": "Grand Prix Spanyol 2025",
+    "league": "Formula 1",
+    "start_time": "2025-05-30T18:30:00",
+    "duration": 380,
+    "thumbnail": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/f_auto/q_auto/content/dam/fom-website/2018-redesign-assets/Racehub%20header%20images%2016x9/Monaco",
+    "watch_url": "/"
+  },
+  {
+    "title": "Grand Prix Kanada 2025",
+    "league": "Formula 1",
+    "start_time": "2025-06-14T00:30:00",
+    "duration": 380,
+    "thumbnail": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/f_auto/q_auto/content/dam/fom-website/2018-redesign-assets/Racehub%20header%20images%2016x9/Canada",
+    "watch_url": "/"
+  },
+  {
+    "title": "Grand Prix Austria 2025",
+    "league": "Formula 1",
+    "start_time": "2025-06-27T18:30:00",
+    "duration": 380,
+    "thumbnail": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/f_auto/q_auto/content/dam/fom-website/2018-redesign-assets/Racehub%20header%20images%2016x9/Austria",
+    "watch_url": "/"
+  },
+  {
+    "title": "Grand Prix Inggris 2025",
+    "league": "Formula 1",
+    "start_time": "2025-07-04T18:30:00",
+    "duration": 380,
+    "thumbnail": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/f_auto/q_auto/content/dam/fom-website/2018-redesign-assets/Racehub%20header%20images%2016x9/Great%20Britain",
+    "watch_url": "/"
+  },
+  {
+    "title": "Grand Prix Belgia 2025",
+    "league": "Formula 1",
+    "start_time": "2025-07-25T17:30:00",
+    "duration": 380,
+    "thumbnail": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/f_auto/q_auto/content/dam/fom-website/2018-redesign-assets/Racehub%20header%20images%2016x9/Belgium",
+    "watch_url": "/"
+  },
+  {
+    "title": "Grand Prix Hongaria 2025",
+    "league": "Formula 1",
+    "start_time": "2025-08-01T18:30:00",
+    "duration": 380,
+    "thumbnail": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/f_auto/q_auto/content/dam/fom-website/2018-redesign-assets/Racehub%20header%20images%2016x9/Hungary",
+    "watch_url": "/"
+  },
+  {
+    "title": "Grand Prix Belanda 2025",
+    "league": "Formula 1",
+    "start_time": "2025-08-29T17:30:00",
+    "duration": 380,
+    "thumbnail": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/f_auto/q_auto/content/dam/fom-website/2018-redesign-assets/Racehub%20header%20images%2016x9/Netherlands",
+    "watch_url": "/"
+  },
+  {
+    "title": "Grand Prix Italia 2025",
+    "league": "Formula 1",
+    "start_time": "2025-09-05T18:30:00",
+    "duration": 380,
+    "thumbnail": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/f_auto/q_auto/content/dam/fom-website/2018-redesign-assets/Racehub%20header%20images%2016x9/Italy",
+    "watch_url": "/"
+  },
+  {
+    "title": "Grand Prix Azerbaijan 2025",
+    "league": "Formula 1",
+    "start_time": "2025-09-19T15:30:00",
+    "duration": 380,
+    "thumbnail": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/f_auto/q_auto/content/dam/fom-website/2018-redesign-assets/Racehub%20header%20images%2016x9/Azerbaijan",
+    "watch_url": "/"
+  },
+  {
+    "title": "Grand Prix Singapura 2025",
+    "league": "Formula 1",
+    "start_time": "2025-10-03T16:30:00",
+    "duration": 380,
+    "thumbnail": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/f_auto/q_auto/content/dam/fom-website/2018-redesign-assets/Racehub%20header%20images%2016x9/Singapore",
+    "watch_url": "/"
+  },
+  {
+    "title": "Grand Prix Amerika Serikat 2025",
+    "league": "Formula 1",
+    "start_time": "2025-10-18T00:30:00",
+    "duration": 380,
+    "thumbnail": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/f_auto/q_auto/content/dam/fom-website/2018-redesign-assets/Racehub%20header%20images%2016x9/USA",
+    "watch_url": "/"
+  },
+  {
+    "title": "Grand Prix Meksiko 2025",
+    "league": "Formula 1",
+    "start_time": "2025-10-20T01:30:00",
+    "duration": 380,
+    "thumbnail": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/f_auto/q_auto/content/dam/fom-website/2018-redesign-assets/Racehub%20header%20images%2016x9/Mexico",
+    "watch_url": "/"
+  },
+  {
+    "title": "Grand Prix Brazil 2025",
+    "league": "Formula 1",
+    "start_time": "2025-11-07T21:30:00",
+    "duration": 380,
+    "thumbnail": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/f_auto/q_auto/content/dam/fom-website/2018-redesign-assets/Racehub%20header%20images%2016x9/Mexico",
+    "watch_url": "/"
+  },
+  {
+    "title": "Grand Prix Las Vegas 2025",
+    "league": "Formula 1",
+    "start_time": "2025-11-21T07:30:00",
+    "duration": 380,
+    "thumbnail": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/f_auto/q_auto/content/dam/fom-website/2018-redesign-assets/Racehub%20header%20images%2016x9/Las%20Vegas",
+    "watch_url": "/"
+  },
+  {
+    "title": "Grand Prix Qatar 2025",
+    "league": "Formula 1",
+    "start_time": "2025-11-28T20:30:00",
+    "duration": 380,
+    "thumbnail": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/f_auto/q_auto/content/dam/fom-website/2018-redesign-assets/Racehub%20header%20images%2016x9/Qatar",
+    "watch_url": "/"
+  },
+  {
+    "title": "Grand Prix Abu Dhabi 2025",
+    "league": "Formula 1",
+    "start_time": "2025-12-05T16:30:00",
+    "duration": 380,
+    "thumbnail": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/f_auto/q_auto/content/dam/fom-website/2018-redesign-assets/Racehub%20header%20images%2016x9/Abu%20Dhabi",
     "watch_url": "/"
   }
 ]
