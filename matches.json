@@ -1,13 +1,5 @@
 [
   {
-    "title": "Grand Prix Miami 2025",
-    "league": "Formula 1",
-    "start_time": "2025-05-03T23:00:00",
-    "duration": 1440,
-    "thumbnail": "https://media.formula1.com/image/upload/f_auto,c_limit,w_1440,q_auto/f_auto/q_auto/content/dam/fom-website/2018-redesign-assets/Racehub%20header%20images%2016x9/Miami",
-    "watch_url": "https://embedzona.blogspot.com/?embed=aHR0cHM6Ly9obHN6b25hLmJsb2dzcG90LmNvbS8/dmlkZW89YUhSMGNITTZMeTkzYVc1a2JtVjNMbTVsZDJ0emJ5NXlkUzkzYVc1a0wzQnlaVzFwZFcweU56UXZiVzl1Ynk1dE0zVTQsaHR0cHM6Ly9iZXN0LXNvbGFyaXMuY29tL2hkY2FzdC5waHA/aGQ9MzE5LGh0dHBzOi8vZW1iZWRzcG9ydHMubWUvZmlhLWYxL3NreS1zcG9ydHMtZjEtc2t5LWYxLXN0cmVhbS0x"
-  },
-  {
     "title": "Grand Prix Emilia Romagna 2025",
     "league": "Formula 1",
     "start_time": "2025-05-16T18:30:00",
@@ -152,20 +144,12 @@
     "watch_url": "/"
   },
   {
-    "title": "Grand Prix Spanyol 2025",
-    "league": "MotoGP",
-    "start_time": "2025-04-25T20:00:00",
-    "duration": 1440,
-    "thumbnail": "https://photos.motogp.com/2025/events/background/05Jerezx2.png",
-    "watch_url": "https://embedzona.blogspot.com/?embed=aHR0cHM6Ly9obHN6b25hLmJsb2dzcG90LmNvbS8/dmlkZW89YUhSMGNITTZMeTkzYVd0cGFIcHVaWGN1Ym1WM2EzTnZMbkoxTDNkcGEybG9laTkzYVd0cE1qZ3ZiVzl1Ynk1dE0zVTQsaHR0cHM6Ly90b3BlbWJlZC5wdy9jaGFubmVsL1ROVFNwb3J0czJbVUtdLGh0dHBzOi8vdG9wZW1iZWQucHcvY2hhbm5lbC9Gb3g1MDZbQXVzdHJhbGlhXSxodHRwczovL3RvcGVtYmVkLnB3L2NoYW5uZWwvU3VwZXJTcG9ydE1vdG9yc3BvcnRbU291dGhBZnJpY2Fd"
-  },
-  {
     "title": "Grand Prix of France 2025",
     "league": "MotoGP",
     "start_time": "2025-05-09T15:45:00",
     "duration": 1440,
     "thumbnail": "https://photos.motogp.com/2025/events/background/06%20France.png",
-    "watch_url": "/"
+    "watch_url": "https://embedmotosports.blogspot.com/?embed=aHR0cHM6Ly9zdHJlYW10cDQuY29tL2dsb2JhbDEucGhwP3N0cmVhbT10bnRfMl9nYixodHRwczovL3RvcGVtYmVkLnB3L2NoYW5uZWwvVE5UU3BvcnRzMltVS10="
   },
   {
     "title": "Grand Prix of Great Britain 2025",
